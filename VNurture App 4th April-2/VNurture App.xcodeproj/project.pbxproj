@@ -30,7 +30,6 @@
 		9A82A6561CB2827000F0DA83 /* TutorRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A82A6551CB2827000F0DA83 /* TutorRootViewController.m */; };
 		9A82A6591CB2833C00F0DA83 /* TutorHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A82A6581CB2833C00F0DA83 /* TutorHomeViewController.m */; };
 		9A82A65C1CB283A100F0DA83 /* TutorMenuListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A82A65B1CB283A100F0DA83 /* TutorMenuListViewController.m */; };
-		9A82A65E1CB2918600F0DA83 /* HR.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A82A65D1CB2918600F0DA83 /* HR.storyboard */; };
 		9A94AF121CB261AA002551F1 /* Student.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A94AF111CB261AA002551F1 /* Student.storyboard */; };
 		9A94AF181CB2637C002551F1 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A94AF171CB2637C002551F1 /* HomeViewController.m */; };
 		9A94AF1B1CB2643C002551F1 /* MenuListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A94AF1A1CB2643C002551F1 /* MenuListViewController.m */; };
@@ -95,7 +94,6 @@
 		9A82A6581CB2833C00F0DA83 /* TutorHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TutorHomeViewController.m; sourceTree = "<group>"; };
 		9A82A65A1CB283A100F0DA83 /* TutorMenuListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TutorMenuListViewController.h; sourceTree = "<group>"; };
 		9A82A65B1CB283A100F0DA83 /* TutorMenuListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TutorMenuListViewController.m; sourceTree = "<group>"; };
-		9A82A65D1CB2918600F0DA83 /* HR.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = HR.storyboard; path = "../../../../Downloads/VNurture App 4th April/HR.storyboard"; sourceTree = "<group>"; };
 		9A94AF111CB261AA002551F1 /* Student.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Student.storyboard; sourceTree = "<group>"; };
 		9A94AF161CB2637C002551F1 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		9A94AF171CB2637C002551F1 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
@@ -277,7 +275,6 @@
 		9ACF2C211CB148D60075D9AE /* HR Class */ = {
 			isa = PBXGroup;
 			children = (
-				9A82A65D1CB2918600F0DA83 /* HR.storyboard */,
 				9A36511B1CAA4705004DD34C /* TempPage.h */,
 				9A36511C1CAA4705004DD34C /* TempPage.m */,
 				9A2F4A511CA2B07100096556 /* AddBatch.h */,
@@ -410,7 +407,6 @@
 				9A94AF121CB261AA002551F1 /* Student.storyboard in Resources */,
 				9A501CAF1CAE766700CA986B /* email.png in Resources */,
 				9A501C991CAE538300CA986B /* batch.png in Resources */,
-				9A82A65E1CB2918600F0DA83 /* HR.storyboard in Resources */,
 				9A501C9B1CAE55A000CA986B /* notice.png in Resources */,
 				9A501CA11CAE57EF00CA986B /* inquiry.png in Resources */,
 			);
